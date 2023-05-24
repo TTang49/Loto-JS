@@ -67,6 +67,9 @@ function genererNombresAleatoires() {
     for (var i = 0; i < 5; i++) {
       var nombre = Math.floor(Math.random() * 100) + 1;
       nombresAleatoires.push(nombre);
+      var numbers = document.getElementById('numbers');
+      numbers.innerHTML += nombre + " ";
+
     }
     
     // Parcourir les cellules de la table

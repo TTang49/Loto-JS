@@ -7,3 +7,6 @@ JS en local
 
 ## Lancement du site
 Lancer le fichier Loto.html
+
+## Prochaines features
+- Lancer une partie créee un nouveau carton
