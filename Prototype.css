@@ -1,0 +1,19 @@
+.background {
+    background-color: grey;
+  }
+.title{
+    text-align: center;
+    font-family: system-ui;
+}
+.start{
+    position: relative;
+    left: 43%;
+    right: 43%;
+    font-family: system-ui;
+    background-color: white;
+    border-radius: 25px;
+    font-weight: bold;  
+}
+  .tab {
+    border: solid black;
+  }
